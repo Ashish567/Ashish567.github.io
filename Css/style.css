@@ -1,0 +1,89 @@
+
+.bgimage 
+{
+  background-image: url('../images/rew.jpg');
+  background-position: center center;
+  background-size: cover;
+  height: 800px; 
+  background-attachment: fixed;.
+  background-repeat: no-repeat;
+  background-color: #464646;
+}
+
+.txt
+{
+	color:black;
+	font-family: 'Comic Sans MS';
+	font-size: 1.5em;
+}
+
+.modal-content {
+   background-image: url('../images/n.jpg');
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+}
+
+.modal-backdrop {
+   background-image: url(../images/rew.jpg');
+}
+
+
+
+
+
+
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #260493; 
+}
+
+.faded {
+  color: rgba(255, 255, 255, 0.8); 
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("header.jpg");
+  background-size: cover;
+  height: 80%;
+}
+
+header.startup hr {
+  margin-top: 20px;
+  margin-bottom: 30px; 
+}
+
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+.btn-primary {
+  background-color: #260493;
+  border-color: #260493; }
+
+.btn-primary:hover {
+  background-color: #58BEDB;
+  border-color: #58BEDB;
+  border-width: 5px;
+  cursor: pointer;
+}
+  
+
+
+ .par
+ {
+ 	color: white;
+ 	font-family: 'Chicle', cursive;
+ 	font-size: 3em;
+ } 
