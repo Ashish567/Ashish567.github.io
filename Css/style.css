@@ -87,3 +87,12 @@ header.startup hr {
  	font-family: 'Chicle', cursive;
  	font-size: 3em;
  } 
+
+
+
+ #mc_embed_signup form {
+    display: block;
+     position: relative; 
+     text-align: center; 
+     padding: 0px 0 0px 1%; 
+}
